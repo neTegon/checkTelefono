@@ -2,7 +2,7 @@
 
 In questo programma, dato un vettore di stringhe, controlla che nei numeri di telefono inseriti esista un numero cellulare italiano e lo restituisce
 
-###Spiegazione codice
+### Spiegazione codice
 
 Ho creato una funzione nella quale  si scorreva tutto il vettore di stringhe, nel quale, dopo aver controllato, tramite un'espressione regolare, che il numero iniziasse con il +, il 3 o lo 0 e che tutti gli altri caratteri 
 fossero dei numeri, verifico che la stringa abbia la lunghezza giusta e che il numero inizi con le cifre corrette. Se non trova un numero di telefono corretto ritorna una stringa vuota.
